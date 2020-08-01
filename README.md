@@ -7,4 +7,4 @@ Each of the R-scripts include SMOTE to deal with oversampling and feature select
 * `SVM` - uses support vector machines for classificaiton
 * `XGBoost` - uses the XGBoost gradient boosted decision trees algorithm for classification
 
-Each of the folders contains a `readme.txt` file where a link is provided to the R-workspace, as GitHub only limits file uploads up to 25MB.
+Each of the folders contains a `readme.txt` file where a link is provided to the R-workspace named `.Rdata`, as GitHub only limits file uploads up to 25MB. Save this `.Rdata` in the same folder where you store the R-script.
